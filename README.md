@@ -14,7 +14,7 @@ This smart contract is intended to be used with
 
 ### Multicall Contract Addresses
 | Chain   | Address | solidity |
-| ------- | ------- |
+| ------- | ------- | ------- |
 | XOS     | [0xe82a13ca198015e910bc0e06b85ac377fb0850fd](https://explorer.eros.fund/address/0xe82A13cA198015E910bC0E06b85Ac377Fb0850fD/transactions) | v0.5.17 |
 | Mainnet | [0xeefba1e63905ef1d7acba5a8513c70307c1ce441](https://etherscan.io/address/0xeefba1e63905ef1d7acba5a8513c70307c1ce441#contracts) |  |
 | Kovan   | [0x2cc8688c5f75e365aaeeb4ea8d6a480405a48d2a](https://kovan.etherscan.io/address/0x2cc8688c5f75e365aaeeb4ea8d6a480405a48d2a#contracts) |  |
